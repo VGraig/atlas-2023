@@ -1,0 +1,79 @@
+{
+	"id": -1,
+	"name": "bennyg187",
+	"description": "The Akitahead is a part of an emote from the german streamer BennyGee_. The emote shows an Akita dog in an Adidas suit",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/bennygee_"
+		],
+		"subreddit": [
+			"BennyGee_"
+		]
+	},
+	"path": {
+		"212": [
+			[
+				1418,
+				731
+			],
+			[
+				1419,
+				719
+			],
+			[
+				1416,
+				716
+			],
+			[
+				1416,
+				713
+			],
+			[
+				1411,
+				712
+			],
+			[
+				1411,
+				713
+			],
+			[
+				1409,
+				713
+			],
+			[
+				1400,
+				712
+			],
+			[
+				1396,
+				713
+			],
+			[
+				1391,
+				713
+			],
+			[
+				1391,
+				721
+			],
+			[
+				1381,
+				721
+			],
+			[
+				1381,
+				732
+			],
+			[
+				1404,
+				732
+			]
+		]
+	},
+	"center": {
+		"212": [
+			1401,
+			722
+		]
+	}
+}
